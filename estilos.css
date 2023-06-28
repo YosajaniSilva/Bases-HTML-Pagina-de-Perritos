@@ -1,0 +1,39 @@
+body{
+    background-color: #b55a93;
+    color: #6d4473;
+    font-family: 'Poppins', sans-serif;
+}
+
+h3{
+    color:#473661;
+    font-size: 25px;
+}
+
+h1, p{
+    color: #860051;
+}
+
+img{
+    /*width: 380px;*/
+    /*height: 300px;*/
+    border-style: dashed;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
+    border-color:#860051;
+}
+
+.img1{
+    width: 230px;
+    height: 300px;
+}
+
+.img2{
+    width: 450px;
+    height: 300px;
+}
+
+a{
+color: #7d3a59;
+}
+
